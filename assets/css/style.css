@@ -1,0 +1,13 @@
+body{
+    background-color: bisque
+}
+#bigBox1{
+    background-image: url("../images/train2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 700px 400px;
+    color: white
+};
+#title{
+    color: aliceblue
+}
